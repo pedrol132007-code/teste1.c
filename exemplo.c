@@ -2,10 +2,11 @@
 
 int main() {
 
-  print ("mackenzie - FCI\n");
-  print ("algoritmos e ");
-  print ("Prog.II\n");
+  printf ("mackenzie - FCI\n");
+  printf ("Ciencia da computacao\n");
+  printf ("algoritmos e Programação II\n");
+  
 
-system ("pause");
+
 return 0;
 }
